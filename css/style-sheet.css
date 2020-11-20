@@ -22,13 +22,13 @@ h2{
 	color:Salmon;
 }
 
-a.eMail{
+a.email{
 	color:DarkSeaGreen;
 	text-decoration:none;
 }
 
 
-h1.Name{
+h1.name{
 	margin-bottom:0px;
 	border:10px solid tomato;
 	padding:30px;
@@ -49,11 +49,11 @@ h2.title{
 	margin-top: 40px;
     padding: 30px;
 }
-.Phone_Number{
+.phone-number{
 	color:DarkSeaGreen;
 }
 /* -------------- Quote Styles ------------*/
-.inspirational-quote-goes-here{
+.inspirational-quote{
 	font-style:italic;
 	font-size:20px;
 	margin-top:50px;
@@ -61,7 +61,7 @@ h2.title{
 }
 
 
-.lineBreak{
+.line-break{
 	border: 1px solid grey;
     margin: 30px auto;
     width: 50%;
